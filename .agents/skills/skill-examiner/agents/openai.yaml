@@ -1,0 +1,4 @@
+interface:
+  display_name: "スキルの試験官"
+  short_description: "スキルの有無で実例を比較し、効果・失敗・改善点を根拠つきで評価"
+  default_prompt: "Use $skill-examiner to evaluate this skill against a baseline without it, report observed benefits and failures in Japanese, and identify evidence-backed improvements."
