@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Understanding Guide"
+  short_description: "Explain code, reading paths, and verification boundaries"
+  default_prompt: "Use $code-understanding-guide to document what I should understand and verify about this code in a Markdown guide."
