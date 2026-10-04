@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review and Fix"
+  short_description: "Coordinate independent review, fixes, and verification"
+  default_prompt: "Use $review-and-fix to independently review the current changes, fix confirmed defects, and verify the result."
